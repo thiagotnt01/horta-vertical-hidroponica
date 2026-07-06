@@ -5,7 +5,7 @@ Trabalho final do curso de **Modelagem e Impressão 3D** — Instituto Ramacrisn
 Professor: **Guilherme**
 
 
-<img src="imagem/Banner-Projeto.png" width="100%">
+<img src="Imagem/Banner-Projeto.png" width="100%">
 
 ---
 
@@ -67,11 +67,11 @@ No início houve um pequeno imprevisto: a colega Bárbara também estava pensand
 
 ### 1. Caixa Base
 
-<img src="imagem/caixa-base-01.jpeg" width="150" height="150">
-<img src="imagem/caixa-base-02.jpeg" width="150" height="150">
-<img src="imagem/caixa-base-03.jpeg" width="150" height="150">
-<img src="imagem/caixa-base-06.jpeg" width="150" height="150">
-<img src="imagem/caixa-base-04.jpeg" width="150" height="150">
+<img src="Imagem/caixa-base-01.jpeg" width="150" height="150">
+<img src="Imagem/caixa-base-02.jpeg" width="150" height="150">
+<img src="Imagem/caixa-base-03.jpeg" width="150" height="150">
+<img src="Imagem/caixa-base-06.jpeg" width="150" height="150">
+<img src="Imagem/caixa-base-04.jpeg" width="150" height="150">
 
 Impressa em **duas partes**, devido ao tamanho da peça e para otimizar o tempo de impressão.
 
@@ -86,11 +86,11 @@ Impressa em **duas partes**, devido ao tamanho da peça e para otimizar o tempo 
 ---
 
 ### 2. Módulo 1
-<img src="imagem/modulo-01.jpeg" width="150" height="150">
-<img src="imagem/modulo-02.jpeg" width="150" height="150">
-<img src="imagem/modulo-05.jpeg" width="150" height="150">
-<img src="imagem/modulo-03.jpeg" width="150" height="150">
-<img src="imagem/modulo-04.jpeg" width="150" height="150">
+<img src="Imagem/modulo-01.jpeg" width="150" height="150">
+<img src="Imagem/modulo-02.jpeg" width="150" height="150">
+<img src="Imagem/modulo-05.jpeg" width="150" height="150">
+<img src="Imagem/modulo-03.jpeg" width="150" height="150">
+<img src="Imagem/modulo-04.jpeg" width="150" height="150">
 
 
 
@@ -108,9 +108,9 @@ Impressa em **duas partes**, devido ao tamanho da peça e para otimizar o tempo 
 
 ### 3. Módulo 2
 
-<img src="imagem/modulo-02.jpeg" width="150" height="150">
-<img src="imagem/modulo-03.jpeg" width="150" height="150">
-<img src="imagem/modulo-04.jpeg" width="150" height="150">
+<img src="Imagem/modulo-02.jpeg" width="150" height="150">
+<img src="Imagem/modulo-03.jpeg" width="150" height="150">
+<img src="Imagem/modulo-04.jpeg" width="150" height="150">
 
 | Tempo | Filamento (PLA) |
 |---|---|
@@ -122,7 +122,7 @@ Impressa em **duas partes**, devido ao tamanho da peça e para otimizar o tempo 
 
 ### 4. Peneiras (1, 2 e 3)
 
-<img src="imagem/peneira-01.jpeg" width="150" height="150">
+<img src="Imagem/peneira-01.jpeg" width="150" height="150">
 
 Impressas **uma de cada vez**.
 
@@ -134,7 +134,7 @@ Impressas **uma de cada vez**.
 
 ### 5. Copinhos (16 unidades)
 
-<img src="imagem/copinho-01.jpeg" width="150" height="150">
+<img src="Imagem/copinho-01.jpeg" width="150" height="150">
 
 
 | Tempo | Filamento (PLA) |
@@ -145,9 +145,9 @@ Impressas **uma de cada vez**.
 
 ### 6. Tampa Superior
 
-<img src="imagem/tampa-superior-01.jpeg" width="150" height="150">
-<img src="imagem/tampa-superior-02.jpeg" width="150" height="150">
-<img src="imagem/Chapeu-tampa.jpeg" width="150" height="150">
+<img src="Imagem/tampa-superior-01.jpeg" width="150" height="150">
+<img src="Imagem/tampa-superior-02.jpeg" width="150" height="150">
+<img src="Imagem/Chapeu-tampa.jpeg" width="150" height="150">
 
 
 | Tempo | Filamento (PLA) |
@@ -158,7 +158,7 @@ Impressas **uma de cada vez**.
 
 ### 7. Caixinha da Chave Liga/Desliga
 
-<img src="imagem/caixinha-chave-01.jpeg" width="150" height="150">
+<img src="Imagem/caixinha-chave-01.jpeg" width="150" height="150">
 
 
 | Tempo | Filamento (PLA) |
@@ -171,7 +171,7 @@ Impressas **uma de cada vez**.
 
 ### 8. Anel do Copinho
 
-<img src="imagem/anel-copinho-01.jpeg" width="150" height="150">
+<img src="Imagem/anel-copinho-01.jpeg" width="150" height="150">
 
 
 | Tempo | Filamento (PLA) |
@@ -184,7 +184,7 @@ Impressas **uma de cada vez**.
 
 ## 📊 Tabela Resumo
 
-<img src="imagem/resumo_impressao_3d.png" width="900" height="300">
+<img src="resumo_impressao_3d.png" width="900" height="300">
 
 | Peça | Tempo | Filamento (PLA) |
 |---|---|---|
