@@ -66,6 +66,7 @@ No início houve um pequeno imprevisto: a colega Bárbara também estava pensand
 
 ### 1. Caixa Base
 
+</table>
   <tr>
     <td><img src="imagem/caixa-base-01.jpeg" width="150" height="150"></td>
     <td><img src="imagem/caixa-base-02.jpeg" width="150" height="150"></td>
