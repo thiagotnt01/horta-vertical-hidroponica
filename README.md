@@ -66,11 +66,17 @@ No início houve um pequeno imprevisto: a colega Bárbara também estava pensand
 
 ### 1. Caixa Base
 
-<img src="imagem/caixa-base-01.jpeg" width="150" height="150">
-<img src="imagem/caixa-base-02.jpeg" width="150" height="150">
-<img src="imagem/caixa-base-03.jpeg" width="150" height="150">
-<img src="imagem/caixa-base-06.jpeg" width="150" height="150">
-<img src="imagem/caixa-base-04.jpeg" width="150" height="150">
+</table>
+  <tr>
+    <td><img src="imagem/caixa-base-01.jpeg" width="150" height="150"></td>
+    <td><img src="imagem/caixa-base-02.jpeg" width="150" height="150"></td>
+    <td><img src="imagem/caixa-base-03.jpeg" width="150" height="150"></td>
+    <td><img src="imagem/caixa-base-06.jpeg" width="150" height="150"></td>
+    <td><img src="imagem/caixa-base-04.jpeg" width="150" height="150"><table></td>
+  </tr>
+</table>
+
+
 
 Impressa em **duas partes**, devido ao tamanho da peça e para otimizar o tempo de impressão.
 
