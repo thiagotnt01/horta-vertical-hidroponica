@@ -184,7 +184,7 @@ Impressas **uma de cada vez**.
 
 ## 📊 Tabela Resumo
 
-<img src="resumo_impressao_3d.png" width="900" height="300">
+<img src="imagem/resumo_impressao_3d.png" width="900" height="300">
 
 | Peça | Tempo | Filamento (PLA) |
 |---|---|---|
